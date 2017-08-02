@@ -1,5 +1,4 @@
-﻿## Welcome to my Github Portfolio
-### ezdeveloper - Emmanuel Eze [find me on linkedin](https://www.linkedin.com/in/ezechukwu/)
+﻿## Ezdeveloper - Emmanuel Eze [find me on linkedin](https://www.linkedin.com/in/ezechukwu/)
 
 You can use the [editor on GitHub](https://github.com/ezdevelopers/ezdevelopers.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
