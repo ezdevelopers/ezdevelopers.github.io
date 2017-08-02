@@ -1,4 +1,4 @@
-﻿### Ezdeveloper - Emmanuel Eze [find me on linkedin](https://www.linkedin.com/in/ezechukwu/)
+﻿### Ezdeveloper - Emmanuel Ezechukwu [find me on linkedin](https://www.linkedin.com/in/ezechukwu/)
 
 ### Markdown
 
